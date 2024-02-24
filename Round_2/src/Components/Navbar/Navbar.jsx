@@ -28,7 +28,7 @@ function Navbar() {
   }
 
   return (
-    <div className="relative w-full bg-white">
+    <div className="relative w-full bg-white mb-5">
       <div className="mx-8 flex items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
        <img src="/images/logo.png" alt="logo" />
         <div className="hidden lg:block">
