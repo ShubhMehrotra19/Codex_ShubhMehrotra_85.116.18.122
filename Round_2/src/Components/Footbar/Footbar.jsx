@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footbar() {
   return (
-    <section className="relative overflow-hidden py-10 border-b-2">
+    <section className="relative overflow-hidden py-10 border-b-2 border-t-2 mt-8">
       <div className="relative z-10 mx-auto max-w-7xl px-4">
         <div className="-m-6 flex flex-wrap">
           <div className="w-full p-6 md:w-1/2 lg:w-5/12">
